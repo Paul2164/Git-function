@@ -16,7 +16,8 @@ function multiply (a,b) {
     return result;
 }
 function square (a,b) {
-    return a ** b
+    let result = a ** b;
+    return result;
 }
 function power (a,b) {
     return a ^ b
