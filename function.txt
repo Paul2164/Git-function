@@ -1,9 +1,11 @@
 function add (a,b) {
-    result a + b;
+    let result = a + b;
+    return result;
     
 }
 function subtract (a,b) {
-    return a - b
+    let answer =  a - b;
+    return;
 }
 function divide (a,b) {
     return a / b
